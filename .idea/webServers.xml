@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bfa89583-9664-4eb2-87e5-af652e243399" name="diversion_comparison" url="http://10.12.236.37">
+        <fileTransfer host="10.12.236.37" port="36000" rootFolder="/data/bobi/diversion_comparison" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="36000" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
